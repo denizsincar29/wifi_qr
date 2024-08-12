@@ -1,0 +1,7 @@
+[package]
+name = "wifi_qr"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wifi-qr-code = "0.1.0"
